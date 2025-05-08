@@ -19,6 +19,7 @@ JavaScript – For dynamic interactivity (e.g., dark mode toggle, scroll-to-top)
 Deployment Platform – GitHub Pages / Netlify / Vercel (choose based on actual deployment).
 
 🌐 Pages and Features
+
 index.html (Home Page)
 Hero section with background image and intro text.
 Navigation bar linking to all pages.
