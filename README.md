@@ -21,29 +21,45 @@ Deployment Platform – GitHub Pages / Netlify / Vercel (choose based on actual 
 🌐 Pages and Features
 
 index.html (Home Page)
+
 Hero section with background image and intro text.
+
 Navigation bar linking to all pages.
+
 Button to scroll to top.
 
 shop.html (Product Listing)
+
 Responsive grid of product cards.
+
 "Add to Cart" buttons with hover effects.
+
 Styled images and animated hover transitions.
 
 contact.html (Contact Us Page)
+
 User-friendly contact form with styled inputs.
+
 Informational footer with email and phone details.
+
 Responsive design for mobile and tablet screens.
 
 🎨 Design & Interactivity
+
 CSS Highlights:
+
 Modern grid layout for products using CSS Grid.
+
 Reusable utility classes for spacing and text.
+
 Animations (e.g., fadeIn, hover effects, transitions).
+
 Fully responsive design using media queries.
 
 JavaScript Features:
+
 Scroll-to-Top Button – Appears on scroll and smoothly brings user to the top.
+
 Cart Notification (Stub) – Add to cart button has visual interaction (can be expanded).
 
 🚀 Deployment
@@ -58,8 +74,13 @@ Phone: +254798219715
 📷
 📌 Conclusion
 This project demonstrates your understanding of:
+
 Semantic HTML structure
+
 Responsive CSS with animations
+
 DOM interactivity via JavaScript
+
 Web deployment using modern platforms
+
 It’s a solid foundation for more advanced web development projects such as full-stack applications, user authentication, or real-time interactivity.
