@@ -67,6 +67,8 @@ The project was deployed using:
 
 ✅ GitHub Pages
 
+https://maria005-d.github.io/shopmate2024/
+
 📞 Contact Info (for demo purpose)
 
 Email: mariawmacharia@gmail.com.com  
